@@ -10,6 +10,7 @@ Configures basic settings to make yourself at home
 
 ## Future Features
 - Opens websites depending on the class
+- edits C:/SPB_Data/.gitconfig
 
 
 
